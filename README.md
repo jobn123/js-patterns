@@ -17,3 +17,11 @@
 * 11、命令模式 command.js
 * 12、组合模式 combination.js
 * 13、享元模式 flyweight.js
+* 14、职责链模式 ChainofResposibility.js
+* 15、中介者模式 Mediator.js
+* 16、装饰着模式 decorater.js
+* 17、状态模式 state.js
+* 19、适配器模式 adapter.js
+* 20 工厂模式 Factory.js
+
+## 设计原则
